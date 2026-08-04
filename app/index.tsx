@@ -44,7 +44,7 @@ export default function SplashScreen() {
 			{/* Coffee Icon Logo */}
 			<Animated.View style={[styles.logoWrapper, { opacity: fadeLogo }]}>
 				<Image
-					source={require("../assets/coffein-icon.jpeg")}
+					source={require("../assets/coffein-icon.png")}
 					style={styles.logoImage}
 					resizeMode="contain"
 				/>
