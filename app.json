@@ -22,7 +22,7 @@
 		"android": {
 			"adaptiveIcon": {
 				"foregroundImage": "./assets/coffein-icon.png",
-				"backgroundColor": "#ffffff"
+				"backgroundColor": "#f9f1e6"
 			},
 			"edgeToEdgeEnabled": false,
 			"predictiveBackGestureEnabled": false,
