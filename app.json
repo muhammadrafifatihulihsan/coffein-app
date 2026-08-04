@@ -4,7 +4,7 @@
 		"slug": "coffein",
 		"version": "1.0.0",
 		"orientation": "portrait",
-		"icon": "./assets/icon.png",
+		"icon": "./assets/coffein-icon.jpeg",
 		"userInterfaceStyle": "light",
 		"newArchEnabled": true,
 		"splash": {
@@ -17,7 +17,7 @@
 		},
 		"android": {
 			"adaptiveIcon": {
-				"foregroundImage": "./assets/adaptive-icon.png",
+				"foregroundImage": "./assets/coffein-icon.jpeg",
 				"backgroundColor": "#ffffff"
 			},
 			"edgeToEdgeEnabled": false,
